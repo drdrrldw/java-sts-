@@ -24,7 +24,7 @@ public class 기본수학2292 { 	//2번문제  해결못함 97% 에서 틀림
 				for(j=j ; j <= end; j+=6*i) {
 						if(j <= N && N <= end) {
 							System.out.println(i+1);
-							i = 30001;
+							i = 30001; 
 							break;
 						}
 				}
