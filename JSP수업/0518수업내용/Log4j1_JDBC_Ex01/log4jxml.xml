@@ -1,0 +1,80 @@
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289381" level="INFO" thread="main">
+<log4j:message><![CDATA[하하하하 --- info]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="DEBUG" thread="main">
+<log4j:message><![CDATA[하하하하 --- debug]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="WARN" thread="main">
+<log4j:message><![CDATA[하하하하 --- warn]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="ERROR" thread="main">
+<log4j:message><![CDATA[하하하하 --- error]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="INFO" thread="main">
+<log4j:message><![CDATA[하하하하 --- info]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="DEBUG" thread="main">
+<log4j:message><![CDATA[하하하하 --- debug]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="WARN" thread="main">
+<log4j:message><![CDATA[하하하하 --- warn]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859289397" level="ERROR" thread="main">
+<log4j:message><![CDATA[하하하하 --- error]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="INFO" thread="main">
+<log4j:message><![CDATA[하하하하 --- info]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="DEBUG" thread="main">
+<log4j:message><![CDATA[하하하하 --- debug]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="WARN" thread="main">
+<log4j:message><![CDATA[하하하하 --- warn]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="ERROR" thread="main">
+<log4j:message><![CDATA[하하하하 --- error]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="INFO" thread="main">
+<log4j:message><![CDATA[하하하하 --- info]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="DEBUG" thread="main">
+<log4j:message><![CDATA[하하하하 --- debug]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="WARN" thread="main">
+<log4j:message><![CDATA[하하하하 --- warn]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859322470" level="ERROR" thread="main">
+<log4j:message><![CDATA[하하하하 --- error]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859371387" level="WARN" thread="main">
+<log4j:message><![CDATA[하하하하 --- warn]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859371387" level="ERROR" thread="main">
+<log4j:message><![CDATA[하하하하 --- error]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859371387" level="WARN" thread="main">
+<log4j:message><![CDATA[하하하하 --- warn]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="kr.human.LogTest" timestamp="1652859371387" level="ERROR" thread="main">
+<log4j:message><![CDATA[하하하하 --- error]]></log4j:message>
+</log4j:event>
+
