@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMap
+ PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"
+ "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+<sqlMap namespace="test">
+	<select id="selectToday" resultClass="string">
+		select SYSDATE from dual
+	</select>
+	
+	<select id="testVO" resultClass="testVO" parameterClass="hashMap">
+		select sysdate as today, #num1# * #num2# as result from dual	
+	</select>
+	
+	<select id="selectList" resultClass="testDTO">
+		select * from test order by idx desc
+	</select>
+	
+	<insert id="insert" parameterClass="testDTO">
+		INSERT INTO test (idx,name) VALUES (test_idx_seq.nextval, #name#)
+	</insert>
+	
+	<select id="selectByIdx" parameterClass="int" resultClass="testDTO">
+		select * from test where idx=#idx#
+	</select>
+	
+</sqlMap>
